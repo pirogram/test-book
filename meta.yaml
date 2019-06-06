@@ -1,0 +1,13 @@
+code: test-book
+title: Test Book
+toc:
+  - code: about
+    title: About
+    id: 30700ff3-f211-479a-8e71-7a86bf60288d
+    topics:
+      - code: book
+        title: Book
+        id: ecda8b51-11d5-49fd-ac94-fc89d73ebb84
+      - code: author
+        title: Author
+        id: edcd226e-3883-4a10-8921-e5477052a0fa
