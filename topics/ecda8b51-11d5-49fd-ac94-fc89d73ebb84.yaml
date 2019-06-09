@@ -16,3 +16,8 @@ html: |
   akdflksad</p>
   <h2>Hello laksd aldkfasd la dlfkasdflas</h2>
   <p>adfasdf</p>
+
+---
+id: 3a09f161-c229-4065-9ed4-51330644b47e
+type: live-code
+code: print('hello')
