@@ -1,7 +1,5 @@
 code: test-book
 title: Test Book
-author: !<tag:yaml.org,2002:js/undefined> ''
-description: !<tag:yaml.org,2002:js/undefined> ''
 toc:
   - code: about
     title: About
@@ -10,8 +8,8 @@ toc:
       - code: book
         title: Book
         id: ecda8b51-11d5-49fd-ac94-fc89d73ebb84
-      - code: Hello
-        title: Hello
+      - code: Helloo
+        title: Helloo
         id: 8c8b71f9-5a59-446b-86f1-b1f7640d7bab
       - code: author
         title: Author
