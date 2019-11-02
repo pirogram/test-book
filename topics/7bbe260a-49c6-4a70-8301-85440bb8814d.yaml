@@ -18,6 +18,7 @@ options:
     text: '2'
     html: |
       <p>2</p>
+    correct: true
   - id: '1'
     text: '3'
     html: |
@@ -25,5 +26,4 @@ options:
 questionHtml: |
   <p>Q</p>
 solutionHtml: ''
-correctIds: []
 selectedIds: []
