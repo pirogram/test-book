@@ -3,6 +3,28 @@ type: live-code
 code: print(2)
 
 ---
+id: 2100d3cd-d70b-4ae5-801b-30ad7bf0f256
+type: multiple-choice-question
+question: ''
+options:
+  - id: '0'
+    text: ''
+    html: ''
+  - id: '1'
+    text: ''
+    html: ''
+  - id: '2'
+    text: ''
+    html: ''
+  - id: '3'
+    text: ''
+    html: ''
+questionHtml: ''
+solutionHtml: ''
+correctIds: []
+selectedIds: []
+
+---
 id: 769e87b8-775f-4251-9c89-e0169d3a3452
 type: testless-coding-question
 question: Write a program.
