@@ -5,4 +5,34 @@ code: print(2)
 ---
 id: 769e87b8-775f-4251-9c89-e0169d3a3452
 type: testless-coding-question
-questionHtml: ''
+question: Write a program.
+code: |
+  # your code goes here
+questionHtml: |
+  <p>Write a program.</p>
+
+---
+id: 4681eb6f-e70a-4542-a60a-69031bad7453
+type: coding-question
+question: Write a program.
+tests: |-
+  assert sum(2, 2) == 4
+  assert sum(2, 3) == 5
+code: |-
+  def sum(a, b):
+    return a + b
+questionHtml: |
+  <p>Write a program.</p>
+solutionHtml: ''
+testLines:
+  - 'assert sum(2, 2) == 4'
+  - 'assert sum(2, 3) == 5'
+testsHtml:
+  - content: >-
+      <span class="hljs-keyword">assert</span> sum(<span
+      class="hljs-number">2</span>, <span class="hljs-number">2</span>) == <span
+      class="hljs-number">4</span>
+  - content: >-
+      <span class="hljs-keyword">assert</span> sum(<span
+      class="hljs-number">2</span>, <span class="hljs-number">3</span>) == <span
+      class="hljs-number">5</span>
