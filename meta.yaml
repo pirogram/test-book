@@ -5,12 +5,12 @@ toc:
     title: About
     id: 30700ff3-f211-479a-8e71-7a86bf60288d
     topics:
-      - code: hello-abcd
-        title: Hello ABCD
-        id: fde1b46e-1204-4948-b46e-edb55172ff4a
       - code: name
         title: Name
         id: 7bbe260a-49c6-4a70-8301-85440bb8814d
+      - code: hello-abcd
+        title: Hello ABCD
+        id: fde1b46e-1204-4948-b46e-edb55172ff4a
       - code: book
         title: Book
         id: ecda8b51-11d5-49fd-ac94-fc89d73ebb84
