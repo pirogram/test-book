@@ -1,3 +1,8 @@
 id: 0a529fe5-9955-4a6c-8a09-d5c99ff3cecb
-type: tbd
-index: 1.2.1
+type: live-code
+code: print(2)
+
+---
+id: 769e87b8-775f-4251-9c89-e0169d3a3452
+type: testless-coding-question
+questionHtml: ''
