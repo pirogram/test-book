@@ -10,20 +10,20 @@ type: live-code
 code: print(1)
 
 ---
-id: 9d08aa7c-8404-4d6f-a813-0f9a042616d8
+id: 906fa3f2-f4ca-49fb-bc41-210d88a1fc50
 type: multiple-choice-question
-question: Hello
+question: Q
 options:
   - id: '0'
-    text: '1'
-    html: |
-      <p>1</p>
-  - id: '1'
     text: '2'
     html: |
       <p>2</p>
+  - id: '1'
+    text: '3'
+    html: |
+      <p>3</p>
 questionHtml: |
-  <p>Hello</p>
+  <p>Q</p>
 solutionHtml: ''
 correctIds: []
 selectedIds: []
