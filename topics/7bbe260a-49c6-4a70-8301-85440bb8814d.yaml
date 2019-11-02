@@ -23,6 +23,11 @@ options:
     text: '3'
     html: |
       <p>3</p>
+  - id: '2'
+    correct: true
+    text: '4'
+    html: |
+      <p>4</p>
 questionHtml: |
   <p>Q</p>
 solutionHtml: ''
