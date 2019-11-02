@@ -5,21 +5,23 @@ code: print(2)
 ---
 id: 2100d3cd-d70b-4ae5-801b-30ad7bf0f256
 type: multiple-choice-question
-question: ''
+question: What's in a name?
 options:
   - id: '0'
-    text: ''
-    html: ''
+    text: '1'
+    html: |
+      <p>1</p>
   - id: '1'
-    text: ''
-    html: ''
+    text: '2'
+    html: |
+      <p>2</p>
   - id: '2'
-    text: ''
-    html: ''
-  - id: '3'
-    text: ''
-    html: ''
-questionHtml: ''
+    text: '3'
+    html: |
+      <p>3</p>
+code: "# your code goes here.\t"
+questionHtml: |
+  <p>What's in a name?</p>
 solutionHtml: ''
 correctIds: []
 selectedIds: []
