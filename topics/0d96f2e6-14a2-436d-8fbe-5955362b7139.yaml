@@ -3,6 +3,25 @@ type: live-code
 code: print(2)
 
 ---
+id: ae2591cc-e8fe-42c5-986b-5803077142f2
+type: multiple-choice-question
+question: asdfad
+options:
+  - id: '0'
+    text: a
+    html: |
+      <p>a</p>
+  - id: '1'
+    text: f
+    html: |
+      <p>f</p>
+questionHtml: |
+  <p>asdfad</p>
+solutionHtml: ''
+correctIds: []
+selectedIds: []
+
+---
 id: 2100d3cd-d70b-4ae5-801b-30ad7bf0f256
 type: multiple-choice-question
 question: What's in a name?
@@ -19,7 +38,7 @@ options:
     text: '3'
     html: |
       <p>3</p>
-code: "\t"
+code: "# your code goes here.\t"
 questionHtml: |
   <p>What's in a name?</p>
 solutionHtml: ''
