@@ -10,25 +10,20 @@ type: live-code
 code: print(1)
 
 ---
-id: 906fa3f2-f4ca-49fb-bc41-210d88a1fc50
-type: multiple-choice-question
-question: Q
-options:
+id: 1cee74e2-fbf8-402f-81df-f9c94c56671d
+type: fill-in-the-blank-question
+question: ''
+blanks:
   - id: '0'
-    text: '2'
-    html: |
-      <p>2</p>
-    correct: true
+    label: ''
+    answer: ''
+    regex: ''
   - id: '1'
-    text: '3'
-    html: |
-      <p>3</p>
-  - id: '2'
-    correct: true
-    text: '4'
-    html: |
-      <p>4</p>
-questionHtml: |
-  <p>Q</p>
+    label: ''
+    answer: ''
+    regex: ''
+questionHtml: ''
 solutionHtml: ''
-selectedIds: []
+labels:
+  - ''
+  - ''
