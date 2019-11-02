@@ -19,7 +19,7 @@ options:
     text: '3'
     html: |
       <p>3</p>
-code: "# your code goes here.\t"
+code: "\t"
 questionHtml: |
   <p>What's in a name?</p>
 solutionHtml: ''
