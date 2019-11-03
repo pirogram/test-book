@@ -21,7 +21,7 @@ blanks:
   - id: '1'
     label: And this?
     answer: '2'
-    regex: ''
+    regex: (2|2\.1)
 questionHtml: |
   <p>Q</p>
 solutionHtml: ''
