@@ -8,3 +8,29 @@ html: |
 id: a6b89084-a54b-4d3e-8859-f8d6f111ba8c
 type: live-code
 code: print(1)
+
+---
+id: 29af129a-b0c9-4a04-bb7e-ee2fac27194f
+type: categorization-question
+question: Q
+categories:
+  - a
+  - b
+  - c
+  - e
+mappings:
+  - id: '0'
+    challenge: '1'
+    answer: a
+  - id: '1'
+    challenge: '2'
+    answer: b
+  - id: '2'
+    challenge: '3'
+    answer: c
+  - id: '3'
+    challenge: '5'
+    answer: e
+questionHtml: |
+  <p>Q</p>
+solutionHtml: ''
