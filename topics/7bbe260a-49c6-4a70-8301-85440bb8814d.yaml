@@ -12,18 +12,19 @@ code: print(1)
 ---
 id: 1cee74e2-fbf8-402f-81df-f9c94c56671d
 type: fill-in-the-blank-question
-question: ''
+question: Q
 blanks:
   - id: '0'
-    label: ''
-    answer: ''
+    label: What is this?
+    answer: '12'
     regex: ''
   - id: '1'
-    label: ''
-    answer: ''
+    label: And this?
+    answer: '2'
     regex: ''
-questionHtml: ''
+questionHtml: |
+  <p>Q</p>
 solutionHtml: ''
 labels:
-  - ''
-  - ''
+  - What is this?
+  - And this?
