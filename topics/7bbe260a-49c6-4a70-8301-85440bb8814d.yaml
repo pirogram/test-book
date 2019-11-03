@@ -14,10 +14,10 @@ id: 29af129a-b0c9-4a04-bb7e-ee2fac27194f
 type: categorization-question
 question: Q
 categories:
+  - e
   - a
   - b
   - c
-  - e
 mappings:
   - id: '0'
     challenge: '1'
