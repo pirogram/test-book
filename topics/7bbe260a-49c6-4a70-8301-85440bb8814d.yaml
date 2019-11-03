@@ -22,9 +22,14 @@ blanks:
     label: And this?
     answer: '2'
     regex: (2|2\.1)
+  - id: '2'
+    label: this?
+    answer: a
+    regex: '3'
 questionHtml: |
   <p>Q</p>
 solutionHtml: ''
 labels:
   - What is this?
   - And this?
+  - this?
