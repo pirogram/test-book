@@ -8,28 +8,3 @@ html: |
 id: a6b89084-a54b-4d3e-8859-f8d6f111ba8c
 type: live-code
 code: print(1)
-
----
-id: 1cee74e2-fbf8-402f-81df-f9c94c56671d
-type: fill-in-the-blank-question
-question: Q
-blanks:
-  - id: '0'
-    label: What is this?
-    answer: '12'
-    regex: ''
-  - id: '1'
-    label: And this?
-    answer: '2'
-    regex: (2|2\.1)
-  - id: '2'
-    label: this?
-    answer: a
-    regex: (a|b)
-questionHtml: |
-  <p>Q</p>
-solutionHtml: ''
-labels:
-  - What is this?
-  - And this?
-  - this?
